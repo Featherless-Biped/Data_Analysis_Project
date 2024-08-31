@@ -1,0 +1,2 @@
+T-statistic for Equality of Means: 18.560563807849732
+P-value for Equality of Means: 1.619490606009634e-51
